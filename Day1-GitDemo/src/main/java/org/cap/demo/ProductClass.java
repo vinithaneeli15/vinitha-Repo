@@ -1,7 +1,6 @@
 package org.cap.demo;
 
 public class ProductClass {
-
 	public static void main(String[] args) {
 		viewProduct();
 

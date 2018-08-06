@@ -10,6 +10,8 @@ public class MainClass {
 		c1.showMsg();
 		CustomerClass c2=new CustomerClass();
 		c2.customerMsg();
+		ProductClass c3=new ProductClass();
+		c3.greetUser();
 		
 	}
 

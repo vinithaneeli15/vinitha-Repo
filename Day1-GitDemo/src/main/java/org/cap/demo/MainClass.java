@@ -6,6 +6,10 @@ public class MainClass {
 
 		System.out.println("Hello!");
 		greet();
+		SalesClass c1=new SalesClass();
+		c1.showMsg();
+		CustomerClass c2=new CustomerClass();
+		c2.customerMsg();
 		
 	}
 

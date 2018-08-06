@@ -17,4 +17,9 @@ public class SalesClass {
 		}
 		
 	}
+
+	public void showMsg() {
+		System.out.println("Hiii");
+		
+	}
 }
